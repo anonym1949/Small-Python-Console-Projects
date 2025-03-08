@@ -1,0 +1,106 @@
+{
+    "menu": {
+        "categories": [
+            {
+                "name": "Entr\u00e9es",
+                "dishes": [
+                    {
+                        "name": "Salade C\u00e9sar",
+                        "price": 8.5
+                    },
+                    {
+                        "name": "Soupe du jour",
+                        "price": 5.0
+                    },
+                    {
+                        "name": "Bruschetta",
+                        "price": 6.5
+                    },
+                    {
+                        "name": "Carpaccio de Boeuf",
+                        "price": 9.0
+                    },
+                    {
+                        "name": "Calamars Frits",
+                        "price": 7.5
+                    }
+                ]
+            },
+            {
+                "name": "Plats Principaux",
+                "dishes": [
+                    {
+                        "name": "Poulet R\u00f4ti",
+                        "price": 15.0
+                    },
+                    {
+                        "name": "Saumon Grille",
+                        "price": 18.5
+                    },
+                    {
+                        "name": "P\u00e2tes Alfredo",
+                        "price": 12.0
+                    },
+                    {
+                        "name": "C\u00f4te de Boeuf",
+                        "price": 22.0
+                    },
+                    {
+                        "name": "Risotto aux Champignons",
+                        "price": 14.0
+                    }
+                ]
+            },
+            {
+                "name": "Desserts",
+                "dishes": [
+                    {
+                        "name": "Tiramisu",
+                        "price": 6.0
+                    },
+                    {
+                        "name": "Fondant au Chocolat",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+                        "price": 6.5
+                    },
+                    {
+                        "name": "Macarons",
+                        "price": 5.5
+                    },
+                    {
+                        "name": "Tarte Tatin",
+                        "price": 7.0
+                    }
+                ]
+            },
+            {
+                "name": "Boissons",
+                "dishes": [
+                    {
+                        "name": "Coca-Cola",
+                        "price": 2.5
+                    },
+                    {
+                        "name": "Jus d'Orange",
+                        "price": 3.5
+                    },
+                    {
+                        "name": "Th\u00e9 \u00e0 la Menthe",
+                        "price": 4.0
+                    },
+                    {
+                        "name": "Cappuccino",
+                        "price": 4.5
+                    },
+                    {
+                        "name": "Smoothie Mangue",
+                        "price": 5.0
+                    }
+                ]
+            }
+        ]
+    }
+}
